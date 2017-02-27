@@ -1,8 +1,8 @@
-Project #1
-Predict the sale price of used cars using proprietary data.
+Project Idea #1
+Both consumers and dealers use serivces like Kelley Blue Book and TrueCar as basis for vehicle pricing and negotiation. I would like to explore this topic using machine learning techniques to predict used car sale prices by utilizing historical used car sale prices. The data used will be proprietary data. 
 
-Project #2
-Predict what types of crime are likely to occur across different neighborhoods.
+Project Idea #2
+Predict what types of crimes are likely to occur across different neighborhoods in the city of Los Angeles. By utlizing machine learning techniques to predict the types of crimes that are likely to occur in certain neighborhoods of a city, law enforcement could more intelligently patrol the city effectively lowering crime. Data will be used from https://catalog.data.gov/dataset/crimes-2012-2015
 
-Project #3
-Predict the success of players in the NBA draft using college basketball stats.
+Project Idea #3
+Build a classifyer capable of recognizing attacks on networks, a network intrusion detector. Data will be from http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html 
